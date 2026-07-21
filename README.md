@@ -10,7 +10,7 @@ This data set shows the causes of bus breakdowns and delays in New york, New Jer
 
 ## What you need
 
-- `Bus_Breakdown_and_Delays_20260720.csv` - dataset with air quality and health impact data.
+- `Bus_Breakdown_and_Delays_20260720.csv` - dataset with bus breakdown and delays data.
 - `bus_breakdown.ipynb` - Jupyter notebook for analyzing the dataset.
 - Make sure python, seaborn, pandas, and plotly in installed so the data runs smoothly.
 
