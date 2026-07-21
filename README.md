@@ -1,5 +1,6 @@
 # bus-breakdown-and-delays-data
 
+This data set shows the causes of bus breakdowns and delays in New york, New Jersey, and Conneticut but filtered only through the five boroughs.
 
 ## To Obtain the data sets
 
